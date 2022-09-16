@@ -1,0 +1,25 @@
+.round_image{
+    height: 300px;
+    width: 300px;
+    border-radius: 10%;
+}
+
+.icon_twitter{
+    color: #0034ff;
+}
+
+.box_image{
+    height: 500px;
+    width: 500px;
+    border-radius: 10%;
+}
+.block_image{
+    height: 200px;
+    width: 200px;
+    border-radius: 10%;
+}
+.bin_image{
+    height: 220px;
+    width: 220px;
+    border-radius: 10%;
+}

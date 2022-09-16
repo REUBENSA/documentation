@@ -1,0 +1,42 @@
+site_name: Documentation
+
+theme:
+  name: material
+  logo: file-person.svg
+  font:
+    text: Merriweather
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+      primary: blue
+      accent: amber
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate 
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode  
+      primary: green
+      accent: purple
+
+
+
+
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+  nav:
+    - Home: index.md
+    - About: about.md
+  
+  plugins:
+  - search:
+      lang: en
+
+extra_css:
+  - stylesheets/custom.css
