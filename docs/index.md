@@ -176,7 +176,7 @@ To View the Datasheet click ->  [DATASHEET](https://wiki.seeedstudio.com/Wio_RP2
 
 ## TYPES WIFI MODULES
 
-### LIST OF WIFI MODULES
+### LIST OF WIFI MODULE
 - ESP-01
 - ESP-07
 - ESP-12E
