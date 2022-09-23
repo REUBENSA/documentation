@@ -302,6 +302,7 @@ makes this part attractive for battery operated power systems. The SGM2019 serie
 dropout voltage to prolong battery life in portableelectronics
 
 KEY FEATURES:
+
 - Low Output Noise, Low Dropout Voltage, Thermal-Overload Protection and Output Current Limit
 - High PSRR (74dB at 1kHz) and 10nA Logic-Controlled Shutdown
 - Fixed Outputs of 1.2V, 1.5V, 1.8V, 2.5V, 2.6V, 2.8V, 2.85V, 3.0V and 3.3V
@@ -316,42 +317,126 @@ To View the Datasheet click ->  [DATASHEET](http://www.sg-micro.com/uploads/soft
 ### 3) MIC5209
 
 
-![MIC5209](https://sigma.octopart.com/110750636/image/u-blox-NINA-W102-00B.jpg)
+The MIC5209 is an efficient linear voltage regulator with very low dropout voltage, typically 10 mV at light
+loads and less than 500 mV at full load, with better than 1% output voltage accuracy. Designed especially for hand-held, battery-powered devices, the MIC5209 features low ground current to help prolong battery life. An 
+enable/shutdown pin on the SOIC-8 and DDPAK versions can further improve battery life with near-zero shutdown current
 
-To View the Datasheet click ->  [DATASHEET](https://content.u-blox.com/sites/default/files/NINA-W10_DataSheet_UBX-17065507.pdf).
+KEY FEATURES:
+
+- Output Voltage Range: 1.8V – 15V and Meets Intel® Slot 1 and Slot 2 Requirements
+- Low 500 mV Maximum Dropout Voltage at FullLoad
+- Extremely Tight Load and Line Regulation
+- Thermally Efficient Surface-Mount Package
+- Low Temperature Coefficient, Current and Thermal Limiting
+- Reversed-Battery Protection and No-Load Stability
+- 1% Output Accuracy, Ultra-Low-Noise Capability in SOIC-8 and DDPAK
+- Ultra-Small 3 mm × 3 mm DFN Package
+
+![MIC5209](https://www.microchip.com/content/dam/mchp/mrt-dam/ic-images/soic/8-lead-ema/MIC5209-EMA-Regular.jpg)
+
+To View the Datasheet click ->  [DATASHEET](https://ww1.microchip.com/downloads/en/DeviceDoc/20005720A.pdf).
 
 ### 4) AMS1117
 
+The The AMS1117 series of adjustable and fixed voltage regulators are designed to provide up to1A output current and to operatedown to 1V input-to-output differential. The dropout voltage of the device is guaranteed maximum 1.3V, decreasing at lower load currents. On-chip trimming adjusts the reference voltage to 1.5%. Current limit is set to minimize the stress under overload conditions on both the regulator and power source circuitry
 
-![NINA W10 SERIES](https://sigma.octopart.com/110750636/image/u-blox-NINA-W102-00B.jpg)
+KEY FEATURES:
 
-To View the Datasheet click ->  [DATASHEET](https://content.u-blox.com/sites/default/files/NINA-W10_DataSheet_UBX-17065507.pdf).
+- Three Terminal Adjustable or Fixed Voltages like 5V, 1.8V, 2.5V, 2.85V, 3.3V and 5.0V 
+- Output Current of 1A 
+- Operates Down to 1V Dropout 
+- Line Regulation: 0.2% Max. 
+- Load Regulation: 0.4% Max. 
+- SOT-223, TO-252 and SO-8 package available 
+
+![AMS1117](https://tinyurl.com/4985hvmp)
+
+To View the Datasheet click ->  [DATASHEET](http://www.advanced-monolithic.com/pdf/ds1117.pdf).
 
 ### 5) LM2576T
 
+The LM2576 series of regulators are monolithic integrated circuits that provide all the active functions
+for a step-down (buck) switching regulator, capableof driving 3-A load with excellent line and load regulation. These devices are available in fixed outputvoltages of 3.3 V, 5 V, 12 V, 15 V, and an adjustable output version.
 
-![NINA W10 SERIES](https://sigma.octopart.com/110750636/image/u-blox-NINA-W102-00B.jpg)
+KEY FEATURES:
 
-To View the Datasheet click ->  [DATASHEET](https://content.u-blox.com/sites/default/files/NINA-W10_DataSheet_UBX-17065507.pdf).
+- 3.3-V, 5-V, 12-V, 15-V, and adjustable output versions
+- Specified 3-A output current
+- Wide input voltage range: 40 V Up to 60 V for HVversion
+- Requires only four external components
+- 52-kHz fixed-frequency internal oscillator
+- TTL-shutdown capability, low-power standby mode
+- High efficiency and uses readily available standard inductors
+
+![LM2576T](https://tinyurl.com/msp2rdp7)
+
+To View the Datasheet click ->  [DATASHEET](https://www.ti.com/lit/ds/symlink/lm2576.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1663938694481&ref_url=https%253A%252F%252Fwww.mouser.in%252F).
 
 
 ### 6) MIC29302WU
 
+The MIC29150/29300/29500/29750 are high current, high
+accuracy, low-dropout voltage regulators. Using Micrel's
+proprietary Super βeta PNP® process with a PNP pass
+element, these regulators feature 350mV to 425mV (full
+load) typical dropout voltages and very low ground current.
+Designed for high current loads, these devices also find
+applications in lower current, extremely low dropout-critical
+systems, where their tiny dropout voltage and ground
+current values are important attributes.
 
-![NINA W10 SERIES](https://sigma.octopart.com/110750636/image/u-blox-NINA-W102-00B.jpg)
+KEY FEATURES:
 
-To View the Datasheet click ->  [DATASHEET](https://content.u-blox.com/sites/default/files/NINA-W10_DataSheet_UBX-17065507.pdf).
+- High current capability:
+− MIC29150/29151/29152/29153..............................1.5A
+− MIC29300/29301/29302/29303.................................3A
+− MIC29500/29501/29502/29503.................................5A
+− MIC29750/29751/29752.........................................7.5A
+- Low-dropout voltage and Low ground current
+- Accurate 1% guaranteed tolerance, Extremely fast transient response
+- Reverse-battery and “Load Dump” protection and Zero-current shutdown mode
+
+![MIC29302WU](https://tinyurl.com/yksbunxa)
+
+To View the Datasheet click ->  [DATASHEET](https://4donline.ihs.com/images/VipMasterIC/IC/MCRL/MCRLS04602/MCRLS04602-1.pdf?hkey=6D3A4C79FDBF58556ACFDE234799DDF0).
 
 
 ### 7) LM2596T
 
+The LM2596 series of regulators are monolithic integrated circuits that provide all the active functions for a step-down (buck) switching regulator, capable of driving a 3A load with excellent line and load regulation. These devices are available in fixed output voltages of 3.3V, 5V, 12V, and an adjustable output version
 
-![NINA W10 SERIES](https://sigma.octopart.com/110750636/image/u-blox-NINA-W102-00B.jpg)
+KEY FEATURES:
 
-To View the Datasheet click ->  [DATASHEET](https://content.u-blox.com/sites/default/files/NINA-W10_DataSheet_UBX-17065507.pdf).
+- 3.3V, 5V, 12V, and adjustable output versions
+- Adjustable version output voltage range, 1.2V to 37V
+- Available in TO-220 and TO-263 packages and Guaranteed 3A output load current
+- Input voltage range up to 40V, Requires only 4 external components
+- 150 kHz fixed frequency internal oscillator and TTL shutdown capability
+- High efficiency
+
+![LM2596T](https://tinyurl.com/4vz66j26)
+
+To View the Datasheet click ->  [DATASHEET](https://www.futurlec.com/Linear/LM2596T.shtml).
 
 ### 8) LM39302R
 
-![NINA W10 SERIES](https://sigma.octopart.com/110750636/image/u-blox-NINA-W102-00B.jpg)
+The LM39300, LM39301 and LM39302 are 3.0A low-dropout linear voltage regulators that provide a low
+voltage, high-current output with a minimum of external components. The LM39300/1 offers extremely low
+dropout (typically 400mV at 3.0A) and low ground current (typically 36mA at 3.0A). The LM39300/1/2 is ideal
+for PC add-in cards that need to convert from standard 5V or 3.3V down to new, lower core voltages. A
+guaranteed maximum dropout voltage of 500mV over all operating conditions allows the LM39300/1/2 to provide 2.5V from a supply as low as 3V
 
-To View the Datasheet click ->  [DATASHEET](https://content.u-blox.com/sites/default/files/NINA-W10_DataSheet_UBX-17065507.pdf).
+KEY FEATURES:
+
+- Guaranteed Output Current of 3.0A
+- Fixed Output Voltage: 1.5V, 1.8V, 2.5V, 3.3V and 5.0V and 1% initial accuracy
+- Low ground current, Over-Temperature/Over-Current Protection
+- Fast transient response, TTL/CMOS compatible enable pin  LM39301
+- Available in TO-263 and TO-220 packages
+- Moisture Sensitivity Level 3
+
+![LM39302R](https://tinyurl.com/mu5bjwrk)
+
+To View the Datasheet click ->  [DATASHEET](http://www.htckorea.co.kr/Datasheet/VLDO/LM3930x.pdf).
+
+---
