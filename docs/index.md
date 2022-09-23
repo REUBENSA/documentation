@@ -356,7 +356,7 @@ KEY FEATURES:
 - Load Regulation: 0.4% Max. 
 - SOT-223, TO-252 and SO-8 package available 
 
-![AMS1117](https://tinyurl.com/4985hvmp)
+![AMS1117](https://cdn.shopify.com/s/files/1/0605/2701/8165/products/KE-SI001_AMS1117_3.3V_Voltage_Regulator_IC_1120x.png?v=1642221075)
 
 To View the Datasheet click ->  [DATASHEET](http://www.advanced-monolithic.com/pdf/ds1117.pdf).
 
@@ -403,7 +403,7 @@ KEY FEATURES:
 - Accurate 1% guaranteed tolerance, Extremely fast transient response
 - Reverse-battery and “Load Dump” protection and Zero-current shutdown mode
 
-![MIC29302WU](https://tinyurl.com/yksbunxa)
+![MIC29302WU](https://ce8dc832c.cloudimg.io/v7/_cdn_/DB/57/00/00/1/30141_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=9e53241aacabb7797a4c47c4727b99f35fe44e1e)
 
 To View the Datasheet click ->  [DATASHEET](https://4donline.ihs.com/images/VipMasterIC/IC/MCRL/MCRLS04602/MCRLS04602-1.pdf?hkey=6D3A4C79FDBF58556ACFDE234799DDF0).
 
