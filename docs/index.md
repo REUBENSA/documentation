@@ -308,7 +308,7 @@ KEY FEATURES:
 - Adjustable Output from 1.2V to 5.0V
 - Available in Green SC70-5 and SOT-23-5 Packages
 
-![SGM2019-ADJYN5G](https://sigma.octopart.com/110750636/image/u-blox-NINA-W102-00B.jpg)
+![SGM2019-ADJYN5G](https://tinyurl.com/ystdzjff)
 
 To View the Datasheet click ->  [DATASHEET](http://www.sg-micro.com/uploads/soft/20190626/1561534770.pdf).
 
