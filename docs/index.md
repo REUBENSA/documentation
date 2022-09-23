@@ -268,12 +268,19 @@ LDO regulators are used to derive lower output voltages from a main supply or ba
 ### DIFFERENT TYPES LDO AVAILABLE IN CURRENT MARKET
 
 1) SPX5205M5
+   
 2) SGM2019-ADJYN5G
+
 3) MIC5209
+   
 4) AMS1117
+   
 5) LM2576T
+   
 6) MIC29302WU
+   
 7) LM2596T
+   
 8) LM39302R
 
 ### 1) SPX5205M5
