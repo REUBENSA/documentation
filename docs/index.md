@@ -261,3 +261,100 @@ The Cypress CYW43439 is a highly integrated single-chip solution and offers the 
 ![CYW43439](https://rlx.sk/19118-home_default/raspberry-pi-pico-w-pico-rp2040-incl-bgn-wireless-lan-and-bluetooth-52-cyw43439.jpg)
 
 To View the Datasheet click ->  [DATASHEET](https://www.infineon.com/dgdl/Infineon-CYW43439-Single-Chip-IEEE-802.11-b-g-n-MAC-PHY-Radio-with-Integrated-Bluetooth-5.0-Compliance-AdditionalTechnicalInformation-v03_00-EN.pdf?fileId=8ac78c8c7ddc01d7017ddd033d78594d).
+
+---
+
+## LOW DROPOUT(LDO)
+
+LDO regulators are used to derive lower output voltages from a main supply or battery. The output voltage is ideally stable with line and load variations, immune to changes in ambient temperature, and stable over time.
+
+### DIFFERENT TYPES LDO AVAILABLE IN CURRENT MARKET
+
+1) SPX5205M5
+2) SGM2019-ADJYN5G
+3) MIC5209
+4) AMS1117
+5) LM2576T
+6) MIC29302WU
+7) LM2596T
+8) LM39302R
+
+### 1) SPX5205M5
+
+The SPX5205 is a positive voltage regulator with very low dropout voltage, output noise and ground current (750μA at 100mA). VOUT has a tolerance of less than 1% and is temperature compensated. Fixed output voltages 1.8V, 3.0V, 
+3.3V, and 5.0V and an adjustable version are available in a small 5-pin SOT-23 package.
+
+KEY FEATURES :
+
+- Low Noise Output LDO: 40μVRMS and 1% Initial Accuracy
+- Very Low Quiecent Current: 70μA and Low Dropout Voltage (210mV at 150mA)
+- Current and Thermal Limiting, Reverse-Battery Protection
+- Wide Range of Fixed Output Voltages: 1.8V, 3.0V, 3.3V and 5.0V
+- Zero Off-Mode Current and Small 5-Pin SOT-23
+
+![SPX5205M5](https://sigma.octopart.com/32587143/image/Exar-SPX5205M5-L-5-0.jpg)
+
+To View the Datasheet click ->  [DATASHEET](https://www.verical.com/datasheet/maxlinear--inc--linear-regulator-SPX5205M5-L-5-0-TR-6127386.pdf).
+
+
+### 2) SGM2019-ADJYN5G
+
+The SGM2019 series low-power, low-noise, low-dropout,CMOS linear voltage regulators operate from a 2.5V to
+5.5V input voltage. They are the perfect choice for low voltage, low power applications. A low ground current
+makes this part attractive for battery operated power systems. The SGM2019 series also offer ultra low
+dropout voltage to prolong battery life in portableelectronics
+
+KEY FEATURES:
+- Low Output Noise, Low Dropout Voltage, Thermal-Overload Protection and Output Current Limit
+- High PSRR (74dB at 1kHz) and 10nA Logic-Controlled Shutdown
+- Fixed Outputs of 1.2V, 1.5V, 1.8V, 2.5V, 2.6V, 2.8V, 2.85V, 3.0V and 3.3V
+- Adjustable Output from 1.2V to 5.0V
+- Available in Green SC70-5 and SOT-23-5 Packages
+
+![SGM2019-ADJYN5G](https://sigma.octopart.com/110750636/image/u-blox-NINA-W102-00B.jpg)
+
+To View the Datasheet click ->  [DATASHEET](http://www.sg-micro.com/uploads/soft/20190626/1561534770.pdf).
+
+
+### 3) MIC5209
+
+
+![MIC5209](https://sigma.octopart.com/110750636/image/u-blox-NINA-W102-00B.jpg)
+
+To View the Datasheet click ->  [DATASHEET](https://content.u-blox.com/sites/default/files/NINA-W10_DataSheet_UBX-17065507.pdf).
+
+### 4) AMS1117
+
+
+![NINA W10 SERIES](https://sigma.octopart.com/110750636/image/u-blox-NINA-W102-00B.jpg)
+
+To View the Datasheet click ->  [DATASHEET](https://content.u-blox.com/sites/default/files/NINA-W10_DataSheet_UBX-17065507.pdf).
+
+### 5) LM2576T
+
+
+![NINA W10 SERIES](https://sigma.octopart.com/110750636/image/u-blox-NINA-W102-00B.jpg)
+
+To View the Datasheet click ->  [DATASHEET](https://content.u-blox.com/sites/default/files/NINA-W10_DataSheet_UBX-17065507.pdf).
+
+
+### 6) MIC29302WU
+
+
+![NINA W10 SERIES](https://sigma.octopart.com/110750636/image/u-blox-NINA-W102-00B.jpg)
+
+To View the Datasheet click ->  [DATASHEET](https://content.u-blox.com/sites/default/files/NINA-W10_DataSheet_UBX-17065507.pdf).
+
+
+### 7) LM2596T
+
+
+![NINA W10 SERIES](https://sigma.octopart.com/110750636/image/u-blox-NINA-W102-00B.jpg)
+
+To View the Datasheet click ->  [DATASHEET](https://content.u-blox.com/sites/default/files/NINA-W10_DataSheet_UBX-17065507.pdf).
+
+### 8) LM39302R
+
+![NINA W10 SERIES](https://sigma.octopart.com/110750636/image/u-blox-NINA-W102-00B.jpg)
+
+To View the Datasheet click ->  [DATASHEET](https://content.u-blox.com/sites/default/files/NINA-W10_DataSheet_UBX-17065507.pdf).

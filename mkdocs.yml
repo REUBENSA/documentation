@@ -1,7 +1,7 @@
 site_name: Documentation
 
 theme:
-  name: material
+  name: readthedocs
   logo: file-person.svg
   font:
     text: Merriweather
