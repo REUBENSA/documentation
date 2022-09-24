@@ -1,6 +1,7 @@
-
-
-
+---
+hide:
+  - navigation
+---
 
 ## RP2040
 
@@ -449,3 +450,39 @@ To View the Datasheet click ->  [DATASHEET](http://www.htckorea.co.kr/Datasheet/
 ---
 
 ## USB Type C
+
+USB-C is an industry-standard connector for transmitting both data and power on a single cable. The USB-C connector was developed by the USB Implementers Forum (USB-IF)(Opens in a new window), the group of companies that has developed, certified, and shepherded the USB standard over the years. The USB-IF counts more than 700 companies in its membership, among them Apple, Dell, HP, Intel, Microsoft, and Samsung.
+
+This broad acceptance by the big dogs is important, because it's part of why USB-C has been so readily accepted by PC manufacturers. Contrast this with the earlier Apple-promoted (and developed) Lightning and MagSafe connectors, which had limited acceptance beyond Apple products, and became obsolete thanks in no small part to USB-C.
+
+### Connector
+
+The 24-pin double-sided connector is slightly larger than the micro-B connector, with a USB Type-C port measuring 8.4 millimetres (0.33 in) wide, 2.6 millimetres (0.10 in) high, and 6.65 millimetres (0.262 in) deep. Two genders (kinds) of connectors exist, male (plug) and female (receptacle)
+
+![LM39302R](https://i.pinimg.com/originals/4e/65/b9/4e65b93aaa5b1f19eed3482ed3dae7c3.png)
+
+### Receptacles
+
+The receptacle features four power and four ground pins, two differential pairs for high-speed USB data (though they are connected together on devices), four shielded differential pairs for Enhanced SuperSpeed data (two transmit and two receive pairs), two Sideband Use (SBU) pins, and two Configuration Channel (CC) pins
+
+
+### Type-C receptacle A pin layout
+
+![LM39302R](table a.png)
+
+### Type-C receptacle B pin layout
+
+![LM39302R](table c.png)
+ 
+### USB Type c 13 pin
+
+- In 13 pin type c female connector it consist of Gnd,Vbus,Sbus1,Sbus2,Cc1,Cc2,Dp,Dm.
+- It has 4 shield ground pins for grounding
+- Dp and Dm are used for transmission of data
+- Vbus are used for power
+- Cc1 & Cc2 are configuration pins
+  
+![LM39302R](table b.png)
+
+To View the Datasheet click ->  [DATASHEET](https://www.usb.org/sites/default/files/USB%20Type-C%20Spec%20R2.0%20-%20August%202019.pdf)
+
