@@ -447,3 +447,5 @@ KEY FEATURES:
 To View the Datasheet click ->  [DATASHEET](http://www.htckorea.co.kr/Datasheet/VLDO/LM3930x.pdf).
 
 ---
+
+## USB Type C
