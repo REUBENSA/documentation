@@ -1,7 +1,7 @@
 site_name: Documentation
 
 theme:
-  name: material
+  name: mkdocs
   logo: file-person.svg
   font:
     text: Merriweather
